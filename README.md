@@ -11,4 +11,4 @@
 ## Project: Study Effect of Tobacco on Mortality using Mixed Model and Survival Analysis
 * Mixed model logistic regression analysis to understand the effect of tobacco use on mortality using National Longitudinal Mortality dataset
 * Survival analysis (Kaplan-Meier estimator)
-*	Technologies: R, ggplot2, glm, lme4, survival
+* Technologies: R, ggplot2, glm, lme4, survival
